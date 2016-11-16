@@ -1,0 +1,1 @@
+content = input("Enter a new sentence please:")
